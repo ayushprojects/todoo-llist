@@ -48,7 +48,7 @@ function App() {
           alignItems: "center",
           width: "100%",
         }}>
-        <h1>Ayush Namdev Todos App 😃</h1>
+        <h1> Todos App 😃</h1>
         <form>
           <TextField
             id="standard-basic"
